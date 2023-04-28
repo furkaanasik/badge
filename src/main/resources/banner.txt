@@ -1,0 +1,13 @@
+${AnsiColor.RED}
+${AnsiColor.RED} /$$$$$$$                  /$$
+${AnsiColor.RED}| $$__  $$                | $$
+${AnsiColor.RED}| $$  \ $$  /$$$$$$   /$$$$$$$  /$$$$$$   /$$$$$$
+${AnsiColor.RED}| $$$$$$$  |____  $$ /$$__  $$ /$$__  $$ /$$__  $$
+${AnsiColor.RED}| $$__  $$  /$$$$$$$| $$  | $$| $$  \ $$| $$$$$$$$
+${AnsiColor.RED}| $$  \ $$ /$$__  $$| $$  | $$| $$  | $$| $$_____/
+${AnsiColor.RED}| $$$$$$$/|  $$$$$$$|  $$$$$$$|  $$$$$$$|  $$$$$$$
+${AnsiColor.RED}|_______/  \_______/ \_______/ \____  $$ \_______/
+${AnsiColor.RED}                               /$$  \ $$
+${AnsiColor.RED}                              |  $$$$$$/
+${AnsiColor.RED}                               \______/
+${AnsiColor.DEFAULT}
