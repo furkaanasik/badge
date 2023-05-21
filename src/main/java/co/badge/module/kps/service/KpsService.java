@@ -1,4 +1,8 @@
 package co.badge.module.kps.service;
 
-public class KpsService {
+import co.badge.module.kps.controller.dtos.KpsDTO;
+
+public interface KpsService {
+
+    boolean isValid(KpsDTO kpsDTO);
 }
